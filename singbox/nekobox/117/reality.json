@@ -112,7 +112,8 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -123,7 +124,8 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -131,7 +133,35 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "91.107.249.241",
+            "server_port": 39155,
+            "uuid": "0cfa4b89-a6d8-4648-9048-78b24171c508",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "discord.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9C4r-zqFJAiGkQaI5ls5MzvDeoCcBgh310pMudFjMhc",
+                    "short_id": "07885b9d"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "128.140.97.199",
             "server_port": 52606,
