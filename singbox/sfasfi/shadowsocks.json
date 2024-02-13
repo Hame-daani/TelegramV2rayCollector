@@ -129,7 +129,6 @@
                 "رایگان | SS | @kingofilter | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @DeamNet_Proxy | PL🇵🇱 | 0️⃣3️⃣",
-                "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
@@ -187,7 +186,6 @@
             "tag": "FR🇫🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | FR🇫🇷 | 0️⃣1️⃣"
             ],
@@ -332,16 +330,6 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @DeamNet_Proxy | FR🇫🇷 | 0️⃣4️⃣",
-            "type": "shadowsocks",
-            "server": "149.202.82.172",
-            "server_port": 8118,
-            "method": "aes-256-gcm",
-            "password": "cdBIDV42DCwnfIN",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
             "tag": "رایگان | SS | @VmessProtocol | FR🇫🇷 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "94.131.9.42",
@@ -457,7 +445,7 @@
             "server": "toronto.telegavpn.org",
             "server_port": 31024,
             "method": "chacha20-ietf-poly1305",
-            "password": "CkJ5KtqKn3fxrn2uXpfB1s",
+            "password": "BpNPZJONIDeSKCsXfwnv2u",
             "plugin": "",
             "plugin_opts": ""
         },
