@@ -107,15 +107,15 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | TROJAN | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣"
             ]
@@ -125,15 +125,15 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣"
             ],
@@ -170,9 +170,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "13.48.227.62",
+            "server": "3.125.193.252",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -193,7 +193,7 @@
         {
             "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
             "type": "trojan",
-            "server": "51.21.64.203",
+            "server": "13.48.227.62",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -296,11 +296,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "13.37.162.72",
+            "server": "3.20.64.137",
             "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -317,7 +317,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "15.223.142.94",
             "server_port": 22222,
@@ -338,7 +338,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "35.183.170.114",
             "server_port": 22222,
