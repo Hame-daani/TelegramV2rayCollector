@@ -114,6 +114,9 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣4️⃣"
@@ -127,6 +130,9 @@
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣3️⃣",
                 "رایگان | REALITY | @TVCminer | FI🇫🇮 | 0️⃣4️⃣"
@@ -273,6 +279,90 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "144.126.234.182",
+            "server_port": 51697,
+            "uuid": "22f3cbcc-55b5-4d71-a3ca-9d6f3287aace",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY",
+                    "short_id": "c2abcb19"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "143.110.169.55",
+            "server_port": 40987,
+            "uuid": "f93405f5-b64f-40ba-a4da-140b994d511f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ",
+                    "short_id": "d3043362"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "143.110.169.62",
+            "server_port": 57599,
+            "uuid": "16f9a0c4-6686-4128-b5c7-fe51c4229113",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2Yw1JllwNzE4VoRQP5QYA8OfB2Hy8TCNi5R4ZtpA0hk",
+                    "short_id": "64115850"
+                }
             }
         },
         {
