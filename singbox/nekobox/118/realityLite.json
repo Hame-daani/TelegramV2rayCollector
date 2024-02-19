@@ -118,8 +118,9 @@
                 "رایگان | REALITY | @V2rayCollectorDonate | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @TVCminer | US🇺🇸 | 0️⃣6️⃣"
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ]
         },
         {
@@ -134,8 +135,9 @@
                 "رایگان | REALITY | @V2rayCollectorDonate | RU🇷🇺 | 0️⃣2️⃣",
                 "رایگان | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @TVCminer | US🇺🇸 | 0️⃣6️⃣"
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
+                "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -401,6 +403,62 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣3️⃣",
+            "type": "vless",
+            "server": "143.110.169.66",
+            "server_port": 26329,
+            "uuid": "97a3b0e9-f44f-4dad-96af-40a14b3ae680",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ir5yuFXmp49WTWAsoD_mxmfbPf6lROEmzcgrCpopWDc",
+                    "short_id": "7ea2155d"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @forwardv2ray | GB🇬🇧 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "143.110.169.55",
+            "server_port": 40987,
+            "uuid": "f93405f5-b64f-40ba-a4da-140b994d511f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "*.sourceforge.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "sO6z1TtkOVNB1lhlsqoBj6lsR_0IyEsfWTXj-YXlCHQ",
+                    "short_id": "d3043362"
+                }
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "51.75.86.63",
@@ -425,34 +483,6 @@
                     "enabled": true,
                     "public_key": "UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8",
                     "short_id": "d73382b02fa94fc2"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @TVCminer | US🇺🇸 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "45.77.210.181",
-            "server_port": 443,
-            "uuid": "ce256176-8e38-49b7-852e-c99ba72b1d84",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudreve.r-yu.me",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI",
-                    "short_id": ""
                 }
             }
         },
