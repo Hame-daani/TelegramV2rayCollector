@@ -109,7 +109,7 @@
                 "NL🇳🇱",
                 "GB🇬🇧",
                 "DE🇩🇪",
-                "FI🇫🇮"
+                "SG🇸🇬"
             ]
         },
         {
@@ -124,7 +124,7 @@
                 "رایگان | REALITY | @v2ray1_ng | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @lrnbymaa | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @DailyV2RY | FI🇫🇮 | 0️⃣5️⃣"
+                "رایگان | REALITY | @https_config_injector | SG🇸🇬 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -166,10 +166,10 @@
             "tolerance": 50
         },
         {
-            "tag": "FI🇫🇮",
+            "tag": "SG🇸🇬",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | FI🇫🇮 | 0️⃣5️⃣"
+                "رایگان | REALITY | @https_config_injector | SG🇸🇬 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -414,12 +414,12 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | FI🇫🇮 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @https_config_injector | SG🇸🇬 | 0️⃣7️⃣",
             "type": "vless",
-            "server": "45.144.235.59",
-            "server_port": 18380,
-            "uuid": "ea76dee5-d575-48be-be3f-2a8be3df0bdb",
-            "flow": "",
+            "server": "54.255.178.212",
+            "server_port": 10013,
+            "uuid": "A7547235-E23F-44A7-9B66-C9D72F769698",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -428,7 +428,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "telewebion.com",
+                "server_name": "s0.awsstatic.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -436,8 +436,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "ftmSPTmVjDeRz8PYj_O9aUi5ToIlFRYhIvi-nFoqQF8",
-                    "short_id": "6429e7da"
+                    "public_key": "dR1QmDjsiujobG0AxdPdsom9gNkgf8qnJglB49-XclM",
+                    "short_id": "01fc5e98a68e5e7b"
                 }
             }
         },
