@@ -1,12 +1,12 @@
 {
-    "date": "2024-03-06 04:17:27",
+    "date": "2024-03-06 09:48:29",
     "points": {
-        "forwardv2ray": 7.078080145503784,
-        "ROMAX_VPN": 3.403153405055278,
-        "OutlineVpnOfficial": 3.020145290010269,
-        "DeamNet_Proxy": 2.048118807940617,
-        "VmessProtocol": 2.040193575227658,
-        "kingofilter": 1.0235312741701887,
+        "forwardv2ray": 8.08493952961603,
+        "OutlineVpnOfficial": 7.0535604482673655,
+        "ROMAX_VPN": 6.882024553408192,
+        "DeamNet_Proxy": 4.103705427562261,
+        "VmessProtocol": 4.086443850210388,
+        "kingofilter": 2.0505893471970262,
         "proxyymeliii": 1.0036188936597996
     }
 }
