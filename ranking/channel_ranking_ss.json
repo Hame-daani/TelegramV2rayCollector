@@ -1,10 +1,10 @@
 {
-    "date": "2024-03-09 21:45:55",
+    "date": "2024-03-10 04:20:58",
     "points": {
-        "forwardv2ray": 22.192102479650373,
-        "OutlineVpnOfficial": 13.32897425220832,
-        "DeamNet_Proxy": 11.752350545498274,
-        "ROMAX_VPN": 9.493953675262771,
-        "VmessProtocol": 4.068927580049058
+        "forwardv2ray": 5.096958562365476,
+        "ROMAX_VPN": 3.0522940694523184,
+        "DeamNet_Proxy": 2.879984566710024,
+        "OutlineVpnOfficial": 2.066442553487874,
+        "VmessProtocol": 1.0202367877480578
     }
 }
