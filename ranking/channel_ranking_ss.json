@@ -1,9 +1,10 @@
 {
-    "date": "2024-03-13 09:49:34",
+    "date": "2024-03-13 15:53:34",
     "points": {
-        "OutlineVpnOfficial": 9.051012966359712,
-        "FAKEOFTVC": 6.070588959477876,
-        "VmessProtocol": 3.0268712458048412,
+        "OutlineVpnOfficial": 14.077843941822463,
+        "FAKEOFTVC": 9.102518860375378,
+        "VmessProtocol": 4.035242690509982,
+        "ROMAX_VPN": 1.0268006820168212,
         "forwardv2ray": 1.014530165844436
     }
 }
