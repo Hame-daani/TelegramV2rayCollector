@@ -1,8 +1,9 @@
 {
-    "date": "2024-03-13 04:17:56",
+    "date": "2024-03-13 09:49:34",
     "points": {
-        "OutlineVpnOfficial": 5.03001880174342,
-        "FAKEOFTVC": 3.0378209997694894,
-        "VmessProtocol": 1.0092348100916155
+        "OutlineVpnOfficial": 9.051012966359712,
+        "FAKEOFTVC": 6.070588959477876,
+        "VmessProtocol": 3.0268712458048412,
+        "forwardv2ray": 1.014530165844436
     }
 }
