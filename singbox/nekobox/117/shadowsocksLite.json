@@ -113,9 +113,9 @@
                 "رایگان | SS | @OutlineVpnOfficial | CY🇨🇾 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣5️⃣",
-                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣4️⃣"
             ]
         },
@@ -131,9 +131,9 @@
                 "رایگان | SS | @OutlineVpnOfficial | CY🇨🇾 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | AU🇦🇺 | 0️⃣5️⃣",
-                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+                "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣",
                 "رایگان | SS | @ROMAX_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣3️⃣",
                 "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -221,7 +221,17 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @forwardv2ray | TR🇹🇷 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "45.89.52.197",
+            "server_port": 32058,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Fgltbpm6cD9eHSFhKI6maC",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @forwardv2ray | CH🇨🇭 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "94.131.3.55",
             "server_port": 46583,
@@ -237,16 +247,6 @@
             "server_port": 32955,
             "method": "chacha20-ietf-poly1305",
             "password": "s2S9dyaGAPRY0N3LYz838G",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @ROMAX_VPN | TR🇹🇷 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "45.89.52.197",
-            "server_port": 32058,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Fgltbpm6cD9eHSFhKI6maC",
             "plugin": "",
             "plugin_opts": ""
         },
