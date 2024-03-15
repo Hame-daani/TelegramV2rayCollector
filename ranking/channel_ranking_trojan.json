@@ -1,13 +1,13 @@
 {
-    "date": "2024-03-15 15:51:54",
+    "date": "2024-03-15 21:48:15",
     "points": {
-        "VmessProtocol": 31.1516102594724,
-        "PrivateVPNs": 20.18793470612337,
-        "oneclickvpnkeys": 12.025382124805223,
-        "v2ray_swhil": 5.414878051025676,
+        "VmessProtocol": 40.049117256795476,
+        "PrivateVPNs": 27.260268274977374,
+        "oneclickvpnkeys": 14.025391108562589,
+        "v2ray_swhil": 6.626750038099604,
+        "kingofilter": 3.775197076373759,
         "proxyymeliii": 3.0687190059446667,
         "DirectVPN": 3.0292641088133627,
-        "kingofilter": 2.0000016676700483,
         "v2ray1_ng": 1.5814060464270425
     }
 }
